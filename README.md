@@ -60,7 +60,7 @@ After you’ve cloned the project locally and updated the dependencies, run the 
 
 - [Yufa Li](https://github.com/01001101CK) 🧘‍♀️
 
-# Mentors: 
+## Mentors: 
 - [Tim Taylor](https://github.com/timothy-taylor) 🔭
 
 - [Lauren Yu](https://github.com/laurenyz) 🐘
